@@ -233,7 +233,7 @@ we evaluated four models:
 - Random Forest 
 - XGBoost
 
-  1. Logistic Regression
+1. Logistic Regression
 Accuracy: 0.7697
 Precision: 0.7663
 Recall: 0.7683
