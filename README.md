@@ -57,10 +57,6 @@ We chose this dataset because:
 
 ---
 
-# Retail Sales Data Analysis
-
-This notebook performs an initial exploratory data analysis and preprocessing steps on a retail sales dataset. The goal is to clean the data and prepare it for further analysis or model building.
-
 ## 1. Data Loading and Initial Exploration
 
 The dataset `retail_dataset.csv` was loaded into a pandas DataFrame. Basic information about the DataFrame, including its shape, data types, and descriptive statistics, was inspected.
@@ -226,8 +222,6 @@ sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', fmt=".2f")
 plt.title('Correlation Heatmap of Numerical Features')
 plt.show()
 ```
-
-This README provides an overview of the data preprocessing and cleaning steps performed, making the dataset ready for further modeling or in-depth analysis.
 
 ## ✔ Model Selection Summary
 
