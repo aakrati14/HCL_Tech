@@ -57,4 +57,15 @@ We chose this dataset because:
 
 ---
 
+✔ Model Selection Summary
+Since our problem is binary classification (returned: 0/1),
+we evaluated four models:
+
+• Logistic Regression (baseline)
+• Decision Tree
+• Random Forest (best performing)
+• XGBoost (advanced)
+
+Random Forest outperformed other models because it handles
+complex patterns, categorical variables, and non-linear relationships.
 
