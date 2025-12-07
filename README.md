@@ -228,11 +228,24 @@ plt.show()
 Since our problem is binary classification (returned: 0/1),
 we evaluated four models:
 
-- Logistic Regression (baseline)
+- Logistic Regression 
 - Decision Tree
-- Random Forest (best performing)
-- XGBoost (advanced)
+- Random Forest 
+- XGBoost
 
-Random Forest outperformed other models because it handles
+  1. Logistic Regression
+Accuracy: 0.7697
+Precision: 0.7663
+Recall: 0.7683
+F1 Score: 0.7673
+2. Random Forest Classifier
+Accuracy: 0.7993
+3.Decision Tree
+Accuracy: 0.7599
+4. XGBoost Classifier
+Accuracy: 0.8276
+
+
+XG Boost outperformed other models because it handles
 complex patterns, categorical variables, and non-linear relationships.
 
