@@ -249,3 +249,11 @@ Accuracy: 0.8276
 XG Boost outperformed other models because it handles
 complex patterns, categorical variables, and non-linear relationships.
 
+Streamlit UI 
+<img width="1896" height="916" alt="ui1" src="https://github.com/user-attachments/assets/6a22005b-0654-4e9d-8a55-2406afa0fe8b" />
+<img width="1885" height="902" alt="ui2" src="https://github.com/user-attachments/assets/740f474b-72b1-415a-af82-267f2e8436e6" />
+<img width="1901" height="816" alt="ui3" src="https://github.com/user-attachments/assets/bc5962c9-2efc-4deb-844c-cf33c3311cc3" />
+
+
+
+
